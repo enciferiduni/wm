@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todolist", "todolist\todolist.csproj", "{FF580060-AF42-4FFC-A1F4-A9452B779F21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{225400D7-658F-4C2A-9A28-F0DEFF82567D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data-1", "Data-1\Data-1.csproj", "{08C613D1-DF01-42F8-86EA-14A75ABDEDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF580060-AF42-4FFC-A1F4-A9452B779F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF580060-AF42-4FFC-A1F4-A9452B779F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF580060-AF42-4FFC-A1F4-A9452B779F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF580060-AF42-4FFC-A1F4-A9452B779F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C613D1-DF01-42F8-86EA-14A75ABDEDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C613D1-DF01-42F8-86EA-14A75ABDEDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C613D1-DF01-42F8-86EA-14A75ABDEDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C613D1-DF01-42F8-86EA-14A75ABDEDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{08C613D1-DF01-42F8-86EA-14A75ABDEDB2} = {225400D7-658F-4C2A-9A28-F0DEFF82567D}
+	EndGlobalSection
+EndGlobal
