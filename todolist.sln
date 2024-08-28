@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todolist", "todolist\todoli
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{225400D7-658F-4C2A-9A28-F0DEFF82567D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data-1", "Data-1\Data-1.csproj", "{08C613D1-DF01-42F8-86EA-14A75ABDEDB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_1", "Data_1\Data_1.csproj", "{08C613D1-DF01-42F8-86EA-14A75ABDEDB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
