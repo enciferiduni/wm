@@ -54,6 +54,7 @@ public class CategoryCntrollers : ControllerBase
         }
 
         _context.Update(category);
+        _context.SaveChange();
         return Ok(category);
     }
     [HttpDelete("{id}")]
